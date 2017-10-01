@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org"
+	xmlns:layout="http://www.utlraq.net.nz/thymeleaf/layout">
+<head>
+<meta charset="UTF-8" />
+<link rel="stylesheet" type="text/css" th:href="@{/css/bootstrap.css}"
+	href="../static/css/bootstrap.css" />
+
+<link rel="stylesheet" th:href="@{/css/myStyle.css}"
+	href="../static/css/myStyle.css" />
+<title>Ma Banque</title>
+</head>
+<body>
+	<header>
+		<div class="nav navbar-default">
+			<div class="container-fluid">
+				<ul class="nav navbar-nav">
+					<li><a th:href="@{/operations}">Operations</a></li>
+					<li><a th:href="@{/operations}">Comptes</a></li>
+					<li><a th:href="@{/operations}">Clients</a></li>
+				</ul>
+				<ul class="nav navbar-nav navbar-right ">
+					<li><a th:href="@{/login?logout}">Logout</a></li>
+				</ul>
+			</div>
+			
+		</div>
+	</header>
+	 <div class="bs-example">
+	<section layout:fragment="content"></section>
+	</div>
+	<footer>
+		<div class="navbar-fixed-bottom">
+			<div class="container-fluid  ">
+				<p>© 2017 Yosri KHALFA </p>
+			</div>
+		</div>
+
+	</footer>
+
+</body>
+</html>

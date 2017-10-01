@@ -1,0 +1,17 @@
+com\yosri\khalfa\AppContainerCustomizer.class
+com\yosri\khalfa\metier\IBanqueMetier.class
+com\yosri\khalfa\entities\Operation.class
+com\yosri\khalfa\WebInitializer.class
+com\yosri\khalfa\dao\ClientRepository.class
+com\yosri\khalfa\security\SecurityController.class
+com\yosri\khalfa\security\SecurityConfig.class
+com\yosri\khalfa\entities\Compte.class
+com\yosri\khalfa\entities\Client.class
+com\yosri\khalfa\dao\OperationRepository.class
+com\yosri\khalfa\metier\IBanqueMetierImpl.class
+com\yosri\khalfa\entities\Versement.class
+com\yosri\khalfa\controller\BanqueController.class
+com\yosri\khalfa\dao\CompteRepository.class
+com\yosri\khalfa\entities\Retrait.class
+com\yosri\khalfa\entities\CompteEpargne.class
+com\yosri\khalfa\entities\CompteCourant.class

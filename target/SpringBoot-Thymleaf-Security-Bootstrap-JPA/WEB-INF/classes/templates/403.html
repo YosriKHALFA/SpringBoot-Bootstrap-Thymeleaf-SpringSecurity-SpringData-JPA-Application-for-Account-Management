@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org"
+	xmlns:layout="http://www.utlraq.net.nz/thymeleaf/layout"
+	layout:decorator="template1">
+<head>
+<meta charset="UTF-8" />
+<title>Ma Banque</title>
+<link rel="stylesheet" type="text/css" th:href="@{/css/bootstrap.css}"
+	href="../static/css/bootstrap.css" />
+	
+<link rel="stylesheet" th:href="@{/css/myStyle.css}"
+	href="../static/css/myStyle.css" />	
+</head>
+
+<body>
+
+	<div layout:fragment="content">
+
+		<div class="col-md-4  col-md-offset-4 spacer40">
+			<div class="panel panel-primary">
+				<div class="panel-heading">Problème d'authorisation</div>
+				<div class="panel-body">
+					<div class="text-danger">
+					Vous n'avez pas le droit d'accéder à cette resource</div>
+				</div>
+			</div>
+
+		</div>
+	</div>
+
+
+</body>
+</html>

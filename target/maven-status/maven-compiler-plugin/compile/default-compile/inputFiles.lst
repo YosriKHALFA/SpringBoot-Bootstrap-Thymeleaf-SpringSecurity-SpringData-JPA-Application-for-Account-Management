@@ -1,0 +1,17 @@
+C:\DevSpace\WorkSpaces\Workspace_Spring\SpringBoot-Thymleaf-Security-Bootstrap-JPA\src\main\java\com\yosri\khalfa\entities\Operation.java
+C:\DevSpace\WorkSpaces\Workspace_Spring\SpringBoot-Thymleaf-Security-Bootstrap-JPA\src\main\java\com\yosri\khalfa\dao\ClientRepository.java
+C:\DevSpace\WorkSpaces\Workspace_Spring\SpringBoot-Thymleaf-Security-Bootstrap-JPA\src\main\java\com\yosri\khalfa\security\SecurityController.java
+C:\DevSpace\WorkSpaces\Workspace_Spring\SpringBoot-Thymleaf-Security-Bootstrap-JPA\src\main\java\com\yosri\khalfa\dao\CompteRepository.java
+C:\DevSpace\WorkSpaces\Workspace_Spring\SpringBoot-Thymleaf-Security-Bootstrap-JPA\src\main\java\com\yosri\khalfa\entities\Versement.java
+C:\DevSpace\WorkSpaces\Workspace_Spring\SpringBoot-Thymleaf-Security-Bootstrap-JPA\src\main\java\com\yosri\khalfa\AppContainerCustomizer.java
+C:\DevSpace\WorkSpaces\Workspace_Spring\SpringBoot-Thymleaf-Security-Bootstrap-JPA\src\main\java\com\yosri\khalfa\entities\Compte.java
+C:\DevSpace\WorkSpaces\Workspace_Spring\SpringBoot-Thymleaf-Security-Bootstrap-JPA\src\main\java\com\yosri\khalfa\entities\Retrait.java
+C:\DevSpace\WorkSpaces\Workspace_Spring\SpringBoot-Thymleaf-Security-Bootstrap-JPA\src\main\java\com\yosri\khalfa\metier\IBanqueMetierImpl.java
+C:\DevSpace\WorkSpaces\Workspace_Spring\SpringBoot-Thymleaf-Security-Bootstrap-JPA\src\main\java\com\yosri\khalfa\metier\IBanqueMetier.java
+C:\DevSpace\WorkSpaces\Workspace_Spring\SpringBoot-Thymleaf-Security-Bootstrap-JPA\src\main\java\com\yosri\khalfa\security\SecurityConfig.java
+C:\DevSpace\WorkSpaces\Workspace_Spring\SpringBoot-Thymleaf-Security-Bootstrap-JPA\src\main\java\com\yosri\khalfa\entities\Client.java
+C:\DevSpace\WorkSpaces\Workspace_Spring\SpringBoot-Thymleaf-Security-Bootstrap-JPA\src\main\java\com\yosri\khalfa\entities\CompteCourant.java
+C:\DevSpace\WorkSpaces\Workspace_Spring\SpringBoot-Thymleaf-Security-Bootstrap-JPA\src\main\java\com\yosri\khalfa\entities\CompteEpargne.java
+C:\DevSpace\WorkSpaces\Workspace_Spring\SpringBoot-Thymleaf-Security-Bootstrap-JPA\src\main\java\com\yosri\khalfa\dao\OperationRepository.java
+C:\DevSpace\WorkSpaces\Workspace_Spring\SpringBoot-Thymleaf-Security-Bootstrap-JPA\src\main\java\com\yosri\khalfa\WebInitializer.java
+C:\DevSpace\WorkSpaces\Workspace_Spring\SpringBoot-Thymleaf-Security-Bootstrap-JPA\src\main\java\com\yosri\khalfa\controller\BanqueController.java
