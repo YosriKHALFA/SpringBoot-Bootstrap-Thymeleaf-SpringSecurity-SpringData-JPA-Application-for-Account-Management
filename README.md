@@ -1,5 +1,4 @@
-# SpringBoot-Bootstrap-Thymeleaf-SpringSecurity-SpringData-JPA-Application-for-Account-Management
-
+# Application-for-Account-Management using : SpringBoot-Bootstrap-Thymeleaf-SpringSecurity-SpringData-JPA
 # **Screenshot**
 
 **_1. Login Page_**
